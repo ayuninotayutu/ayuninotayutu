@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ayuninotayutu" target="blank"><img src="https://img.shields.io/twitter/follow/ayuninotayutu?logo=twitter&style=for-the-badge" alt="ayuninotayutu" /></a> </p>
 
-- 🔭 I’m currently working on **Restimer**
+- 🔭 I’m currently working on **Restimer**. It is a group scheduling alarm timmer to solve my personal problem of adherering to schedule as a Customer Service Agent.
 
 - 🌱 I’m currently learning **Javascript.**
 
-- 💬 Ask me about **Python, Flask**
+- 💬 Ask me about **Python and Flask**
 
-- 📫 How to reach me **ayunizaintech@gmail.com**
+- 📫 How to reach me:  **ayunizaintech@gmail.com**
 
-- ⚡ Fun fact **I have 3 children**
+- ⚡ Fun fact: **I have been learning programming since 2022 while working full time as a customer service agent for a bank.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
