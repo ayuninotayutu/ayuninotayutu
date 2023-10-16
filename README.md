@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayuninotayutu" target="blank"><img src="https://img.shields.io/twitter/follow/ayuninotayutu?logo=twitter&style=for-the-badge" alt="ayuninotayutu" /></a> </p>
 
-- 🔭 I’m currently working on **Restimer**. It is a group scheduling alarm timmer to solve my personal problem of adherering to schedule as a Customer Service Agent.
+- 🔭 I’m currently working on **Restimer**. It is a group scheduling alarm timer to solve my personal problem of adherering to schedule as a Customer Service Agent.
 
 - 🌱 I’m currently learning **Javascript.**
 
